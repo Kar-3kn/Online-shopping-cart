@@ -20,6 +20,9 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="mr-auto"></div>
             <div class="navbar-nav">
+            <a href="contact.php" class="nav-item nav-link active">
+                Contact
+            </a>
             <a href="signin.html" class="nav-item nav-link active">
                 Login
             </a>
